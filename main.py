@@ -50,7 +50,7 @@ def main():
         break
 
     print(n_movies)
-    # print(movieTitles)
+
 
 
     actors = innerMovieTag0['title']
